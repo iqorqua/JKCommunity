@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_place"
+            android:icon="@drawable/ic_place_black_48dp"
+            android:title="Карта комплекса" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/ic_payment_black_48dp"
+            android:title="Расходы" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat_black_48dp"
+            android:title="Чат" />
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/ic_contact_phone_black_48dp"
+            android:title="Услуги" />
+    </group>
+
+    <item android:title="Поделиться">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Через социальніе сети" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Через СМС ууведомление" />
+        </menu>
+    </item>
+
+</menu>

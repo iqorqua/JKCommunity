@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "553256423807",
+    "firebase_url": "https://jkchat-2fb87.firebaseio.com",
+    "project_id": "jkchat-2fb87",
+    "storage_bucket": "jkchat-2fb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553256423807:android:9f1e499f6794f94e",
+        "android_client_info": {
+          "package_name": "com.jkapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553256423807-empokqccdebcq0pf1s02i3rrgo1mbfbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-lQNOb47ddVxR2jZ_WYyuH4uIVFmmBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
